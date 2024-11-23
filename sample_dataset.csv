@@ -1,0 +1,6 @@
+id,age,city,description,salary
+1,25,New York,Student,50000
+2,30,Los Angeles,Engineer,75000
+3,,San Francisco,Designer,60000
+4,35,Boston,Manager,80000
+5,28,Chicago,Developer,72000
